@@ -1,4 +1,4 @@
-# testTMBD
+# Content-Based Recom
 
 #This repository is all about  performing recommendations engines when 
 we miss informations on users. 
